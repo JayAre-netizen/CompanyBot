@@ -1,0 +1,7 @@
+{
+	"description":"Monsters",
+	"monsters": [
+		"Godzilla",
+    "vampire"
+	]
+}
