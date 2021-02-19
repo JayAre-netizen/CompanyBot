@@ -1,0 +1,7 @@
+{
+	"description":"Hats",
+	"hats": [
+"cool",
+"gross"
+	]
+}
