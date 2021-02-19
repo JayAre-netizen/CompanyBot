@@ -2,6 +2,6 @@
 	"description":"Monsters",
 	"monsters": [
 		"Godzilla",
-    "vampire"
+    		"vampire"
 	]
 }
